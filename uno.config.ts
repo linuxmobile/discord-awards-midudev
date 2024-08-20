@@ -4,6 +4,11 @@ import { presetAnimations } from "unocss-preset-animations";
 export default defineConfig({
 	presets: [presetWind(), presetAnimations()],
 	theme: {
+		fontFamily: {
+			sans: "Satoshi",
+			display: "Clash Display",
+			array: "Array",
+		},
 		colors: {
 			green: {
 				50: "#FBFEEB",
