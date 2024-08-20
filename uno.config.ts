@@ -8,6 +8,7 @@ export default defineConfig({
 			sans: "Satoshi",
 			display: "Clash Display",
 			array: "Array",
+			mono: "JetBrains Mono",
 		},
 		colors: {
 			green: {
