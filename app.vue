@@ -4,7 +4,7 @@
 <script setup lang="ts">
 useHead({
 	bodyAttrs: {
-		class: "bg-black text-white font-sans",
+		class: "bg-black text-white font-sans overflow-x-hidden",
 	},
 });
 useSeoMeta({
