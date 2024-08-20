@@ -14,5 +14,8 @@
     "@vueuse/nuxt": "^11.0.1",
     "nuxt": "^3.12.4",
     "vue": "latest"
+  },
+  "devDependencies": {
+    "unocss-preset-animations": "^1.1.0"
   }
 }
