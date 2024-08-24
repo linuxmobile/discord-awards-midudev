@@ -1,5 +1,4 @@
 <script setup lang="ts">
-const route = useRoute();
 import IconsDiscord from "~/components/icons/Discord.vue";
 </script>
 <template>
